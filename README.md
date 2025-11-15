@@ -40,7 +40,7 @@
 ---
 
 ### projects
-all of my work is private, because i write code that makes $$$$$ 
+all of my work on here is private, because i write code that makes $$$$$ 
 some older public code on my <a href="https://github.com/neesssam">old github</a>.  
 open-source projects coming soon.
 
