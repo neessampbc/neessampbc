@@ -44,7 +44,7 @@
 ---
 
 ### projects
-all of my work is private, because i write code that makes $$$$$ (production-level revenue)
+all of my work is private, because i write code that makes $$$$$ 
 some older public code on my <a href="https://github.com/neesssam">old github</a>.  
 open-source projects coming soon.
 
