@@ -13,10 +13,10 @@
 
 ### about me
 
-- **software engineer** @ <a href="https://perlearning.com/">**perpetual learning**</a>  
-- founder of <a href="https://simplgate.com">**simplgate**</a> — content gating made simple  
-- **learning**: c++, php/laravel, python, full-stack dev, automation, devops, data pipelines 
-- **2026 goal**: launch an open-source project
+- **software engineer** @ <a href="https://perlearning.com/">perpetual learning</a>  
+- founder of <a href="https://simplgate.com"><b>simplgate</b></a> — content gating made simple  
+- **learning**: c++, php/laravel, python, full-stack dev, automation, devops, data pipelines  
+- **2026 goal**: launch an open-source project  
 
 ---
 
@@ -47,27 +47,33 @@
 
 ### projects
 
-all of my work is currently private because i write software that actually makes money.  
-some older public work is on my <a href="https://github.com/neesssam">old github</a> (lost email access).  
+all of my work is private because i build software that actually makes money.  
+some older public work is on my <a href="https://github.com/neesssam">old github</a>.  
 
-i'm actively preparing a few projects to open-source soon.
+open-source repos coming soon.
 
 ---
 
 ### github stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=neessampbc" 
-    alt="github streak" 
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=neessampbc" width="300" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=neessampbc&show_icons=true&include_all_commits=true&count_private=true" width="300" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neessampbc&layout=compact&langs_count=8" width="225" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### currently learning
 
-- **c++ fundamentals & data structures**  
-- **clean git workflows (branches, prs, reviews)**  
-- **building open-source projects instead of just private/work code**  
-
+- c++ fundamentals & data structures  
+- clean git workflows (branches, prs, reviews)  
+- building open-source projects instead of only private/work code  
