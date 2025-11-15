@@ -47,11 +47,11 @@ open-source projects coming soon.
 ---
 
 ### activity
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neessampbc" width="380" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neessampbc&hide_border=true&radius=6" width="95%" />
 </p>
 
