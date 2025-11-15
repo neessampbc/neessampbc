@@ -54,15 +54,7 @@ i'm actively preparing a few projects to open-source soon.
 
 ---
 
-### 📊 github stats
-
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=neessampbc&layout=compact&langs_count=8" 
-    alt="top languages" 
-  />
-</p>
+### github stats
 
 <p align="center">
   <img 
