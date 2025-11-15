@@ -1,5 +1,5 @@
-<h1 align="center">hey, i'm neessam</h1>
-<p align="center">
+<h1 align="left">hey, i'm neessam</h1>
+<p align="left">
   <a href="https://github.com/neessampbc">github</a> •
   <a href="https://github.com/neesssam">old github</a> •
   <a href="https://www.linkedin.com/in/neessam/">linkedin</a> •
