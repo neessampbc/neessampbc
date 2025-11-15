@@ -10,7 +10,7 @@
 ### about me
 - software engineer @ <a href="https://perlearning.com/">perpetual learning</a>  
 - founder of <a href="https://simplgate.com">simplgate</a> (WIP) — content gating made simple  
-- learning: c++, php/laravel, python, automation, devops  
+- skills: c++, php/laravel, python, automation, devops  
 - 2026 goal: launch an open-source project  
 
 ---
