@@ -1,6 +1,4 @@
 <h1 align="center">hey, i'm neessam</h1>
-<p align="center">software engineer • builder • designer</p>
-
 <p align="center">
   <a href="https://github.com/neessampbc">github</a> •
   <a href="https://github.com/neesssam">old github</a> •
@@ -8,8 +6,6 @@
   <a href="https://neessam.works/portfolio">portfolio</a> •
   <a href="mailto:neesssam@gmail.com">email</a>
 </p>
-
----
 
 ### about me
 - software engineer @ <a href="https://perlearning.com/">perpetual learning</a>  
