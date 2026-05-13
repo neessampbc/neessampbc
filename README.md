@@ -9,9 +9,8 @@
 
 ### about me
 - software engineer @ <a href="https://perlearning.com/">perpetual learning</a>  
-- founder of <a href="https://simplgate.com">simplgate</a> (WIP) — content gating made simple  
-- skills: c++, php/laravel, python, automation, devops  
-- 2026 goal: launch an open-source project: currently building <a href= "https://github.com/neessampbc/cf_ai_site_speed_doctor"> AI Site Speed Doctor </a>
+- founder of <a href="https://simplgate.com">simplgate</a> — building in the marketing tech space
+- skills: c++, php/laravel, python, automation, devops, frontend, ui/ux design, assembly
 
 ---
 
@@ -42,7 +41,7 @@
 ### projects
 _most of my work on here is private, because i write code that makes $$$$$._
 
-- currently building <a href= "https://github.com/neessampbc/cf_ai_site_speed_doctor"> AI site speed doctor </a>
+
 
 some older public code on my <a href="https://github.com/neesssam">old github</a>, 
 which i no longer have access to due to my old school email being deleted.  
