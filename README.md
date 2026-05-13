@@ -10,7 +10,7 @@
 ### about me
 - software engineer @ <a href="https://perlearning.com/">perpetual learning</a>  
 - founder of <a href="https://simplgate.com">simplgate</a> — building in the marketing tech space
-- skills: c++, php/laravel, python, automation, devops, frontend, ui/ux design, assembly
+- skills: c++, php/laravel, python, automation, devops, frontend, ui/ux design, RISC-V assembly
 
 ---
 
@@ -41,8 +41,6 @@
 ### projects
 _most of my work on here is private, because i write code that makes $$$$$._
 
-
-
 some older public code on my <a href="https://github.com/neesssam">old github</a>, 
 which i no longer have access to due to my old school email being deleted.  
 open-source projects coming soon.
@@ -61,6 +59,5 @@ open-source projects coming soon.
 ---
 
 ### learning
-- c++ & data structures  
-- git workflows  
-- open-source project architecture  
+- c++ data structures and algorithms   
+- computer architecture & RISC-V assembly programming
