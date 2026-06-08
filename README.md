@@ -40,7 +40,7 @@
 
 ### projects
 
--  <a href="https://github.com/neessampbc/professor-review-RAG-system/">AI Engineering RAG Project</a>  
+-  <a href="https://github.com/neessampbc/professor-review-RAG-system/">AI Engineering - Professor Review RAG System</a>  
 
 _most of my work on here is private, because i write code that makes $$$$$._
 
