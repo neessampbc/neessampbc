@@ -39,9 +39,10 @@
 ---
 
 ### projects
-_most of my work on here is private, because i write code that makes $$$$$._
 
-- AI Engineering RAG Project: https://github.com/neessampbc/professor-review-RAG-system/
+-  <a href="https://github.com/neessampbc/professor-review-RAG-system/">AI Engineering RAG Project</a>  
+
+_most of my work on here is private, because i write code that makes $$$$$._
 
 some older public code on my <a href="https://github.com/neesssam">old github</a>, 
 which i no longer have access to due to my old school email being deleted.  
